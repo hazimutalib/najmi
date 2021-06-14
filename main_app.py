@@ -1,10 +1,6 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import pickle
-import shap
-import matplotlib.pyplot as plt
-import streamlit.components.v1 as components
 
 st.set_page_config(layout="wide")
 
